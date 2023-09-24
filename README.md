@@ -43,7 +43,7 @@ O projeto inclui classes e interfaces que representam esses recursos.
 
 ### Classe
 
-4. **iPhone2017**
+4. **iPhone2007**
    - Implementa as interfaces ReprodutorMusical, AparelhoTelefonico e NavegadorInternet.
    - Atributos:
      - `modelo: String`

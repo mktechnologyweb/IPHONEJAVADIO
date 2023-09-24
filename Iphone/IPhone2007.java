@@ -1,4 +1,4 @@
-// Arquivo iPhone2017.java
+// Arquivo iPhone2007.java
 
 public class IPhone2007 implements ReprodutorMusical, AparelhoTelefonico, NavegadorInternet {
     private String modelo;

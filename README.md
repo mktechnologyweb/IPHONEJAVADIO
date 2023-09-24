@@ -1,11 +1,11 @@
 # IPHONEJAVADIO
-# Projeto iPhone 2017 - Funções Multifuncionais
+# Projeto iPhone 2007 - Funções Multifuncionais
 
-Este projeto representa um modelo simples do iPhone de 2017, que desempenha três papéis principais: Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
+Este projeto representa um modelo simples do iPhone de 2007, que desempenha três papéis principais: Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
 
 ## Descrição
 
-O iPhone 2017 é uma simulação de um dispositivo multifuncional que permite ao usuário:
+O iPhone 2007 é uma simulação de um dispositivo multifuncional que permite ao usuário:
 
 - Reproduzir música
 - Realizar chamadas telefônicas
@@ -55,11 +55,11 @@ O projeto inclui classes e interfaces que representam esses recursos.
 
 ## Uso
 
-Exemplo de uso do iPhone 2017:
+Exemplo de uso do iPhone 2007:
 
 ```java
-// Crie uma instância do iPhone 2017
-iPhone2017 meuiPhone = new iPhone2017("iPhone 6", "123456");
+// Crie uma instância do iPhone 2007
+iPhone2007 meuiPhone = new IPhone2007("iPhone 1", "123456");
 
 // Reproduza uma música
 meuiPhone.play();
